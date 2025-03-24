@@ -1,7 +1,7 @@
 require("dotenv").config();
 const axios = require("axios");
 
-const YOUTUBE_API_KEY = "AIzaSyAh3jfinpIquCRYp_jfuKLN8ZECe0IUvnU";
+const YOUTUBE_API_KEY = "";
 const YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search";
 
 /**
